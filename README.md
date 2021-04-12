@@ -1,6 +1,6 @@
 # Python File Chunker
 #### Usage
-    `chunker.py -h`
+    chunker.py -h
 
 #### Arguments
     -s, --source : Source directory
@@ -11,4 +11,4 @@
 
 #### Example Usage
 
-    `Example : chunkey.py -s /data/archive -o /data/archive-chunks -c 50 -e txt --verbose`
+    Example : chunkey.py -s /data/archive -o /data/archive-chunks -c 50 -e txt --verbose
